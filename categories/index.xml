@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on suika</title>
+    <link>http://lindaster.github.io/suika/categories/</link>
+    <description>Recent content in Categories on suika</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 16 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://lindaster.github.io/suika/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Background</title>
+      <link>http://lindaster.github.io/suika/categories/background/</link>
+      <pubDate>Wed, 16 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://lindaster.github.io/suika/categories/background/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wallpapers</title>
+      <link>http://lindaster.github.io/suika/categories/wallpapers/</link>
+      <pubDate>Wed, 16 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://lindaster.github.io/suika/categories/wallpapers/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
